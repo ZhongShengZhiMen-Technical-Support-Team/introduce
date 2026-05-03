@@ -28,7 +28,7 @@ export default defineConfig({
       copyright: 'Copyright © 2026 众生之门社区开发组'
     },
     editLink: {
-      pattern: 'https://github.com/UranusOJ/docs/edit/main/docs/:path',
+      pattern: 'https://github.com/ZhongShengZhiMen-Technicl-Support-Team/introduce/edit/main/docs/:path',
       text: '在 GitHub 上编辑此页'
     },
 
